@@ -6,8 +6,6 @@ public class MyFirstProgram {
         hello("world");
         hello("jija");
         hello("Andrey");
-        hello("Andrey");
-        hello("Andrey");
 
 
         Square s = new Square(5);
